@@ -1,1 +1,1 @@
-Esse é o desafio do PRojeto do Bootcamp da DIO.
+Esse é o desafio do Projeto do Bootcamp da DIO.
